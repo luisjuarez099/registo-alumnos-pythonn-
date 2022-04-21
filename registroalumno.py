@@ -1,10 +1,10 @@
 print('Hola  queridos alumnos de unedl de la carrera Ing. en Software')
 print("\n")
-a =2+32
+a =21+32
 print(a)
 
 
-b=20 - 10
+b=30 - 10
 print(b)
 def alumno(clave,carrera):
     carrera=carrera.capitalize()
