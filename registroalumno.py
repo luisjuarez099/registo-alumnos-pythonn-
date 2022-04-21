@@ -1,4 +1,7 @@
 print('Hola  queridos alumnos de unedl de la carrera Ing. en Software')
+print("\n")
+a =2+2
+print(a)
 
 def alumno(clave,carrera):
     carrera=carrera.capitalize()
