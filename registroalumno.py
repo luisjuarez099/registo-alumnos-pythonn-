@@ -1,5 +1,9 @@
 def saludo():
+<<<<<<< HEAD
     print('Hola  queridos alumnos de unedl de la carrera Derecho')
+=======
+    print('Hola  queridos alumnos de unedl de la carrera Mercadotecnia')
+>>>>>>> aacb28fd53f53cd8c59d0507ad603a216fd28a2c
 print("\n")
 def alumno(clave,carrera):
     carrera=carrera.capitalize()
