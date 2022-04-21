@@ -7,7 +7,7 @@ def factorial():
         i+=1
     print(f"El factorial de {contador} es: {num}")
 def ciclo():
-    for x in range(1,10+1):
+    for x in range(2,10+1):
         print(x, end=" ")
     
 if __name__=='__main__':
