@@ -1,6 +1,6 @@
 print('Hola  queridos alumnos de unedl de la carrera Ing. en Software')
 print("\n")
-a =2+2
+a =2+12
 print(a)
 
 
