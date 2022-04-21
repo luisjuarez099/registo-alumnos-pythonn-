@@ -27,7 +27,7 @@ def calif():
 
 
 def saludo_siaru():
-    print("Bienvenido a Siaru")
+    print("Bienvenido a Siaru la plataforma de alumnos UNEDL")
 
 #-----------------------------
 
