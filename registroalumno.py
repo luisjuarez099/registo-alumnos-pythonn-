@@ -1,11 +1,13 @@
-print('Hola  queridos alumnos de unedl de la carrera Ing. en Software')
-
+def saludo():
+    print('Hola  queridos alumnos de unedl de la carrera Ing. en Software')
+print("\n")
 def alumno(clave,carrera):
     carrera=carrera.capitalize()
     print(f"Hola alumno/a {clave} de la carrera de {carrera}")
 clave=(input("Nombre  del estudiante: "))
 carrera=input("Carrera que cursa actualmente: ")
 
+print("\n")
 
 def calif():
     calif_list=[]
@@ -30,6 +32,7 @@ def saludo_siaru():
 #-----------------------------
 
 if __name__=='__main__':
+    saludo()
     saludo_siaru()
     alumno(clave, carrera)
     calif()
