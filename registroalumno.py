@@ -1,5 +1,5 @@
 def saludo():
-    print('Hola  queridos alumnos de unedl de la carrera Ing. en Software')
+    print('Hola  queridos alumnos de unedl de la carrera Mercadotecnia')
 print("\n")
 def alumno(clave,carrera):
     carrera=carrera.capitalize()
