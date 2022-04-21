@@ -3,6 +3,9 @@ print("\n")
 a =2+2
 print(a)
 
+
+b=20 - 10
+print(b)
 def alumno(clave,carrera):
     carrera=carrera.capitalize()
     print(f"Hola alumno/a {clave} de la carrera de {carrera}")
